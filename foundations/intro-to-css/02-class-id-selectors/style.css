@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.bomboclatt {
+    background-color: rgb(212, 100, 100);
+    font-family: 'Verdana','DejaVu Sans','sans-serif';
+}
+
+#skrt {
+    color: #001aff;
+    font-size: 36px;
+}
+
+.ae {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#wo {
+    background-color: hsla(113, 100%, 50%, 0.479);
+    font-size: 24px;
+    font-weight: bold;
+}
